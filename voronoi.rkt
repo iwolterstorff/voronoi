@@ -2,6 +2,8 @@
 
 (require 2htdp/image)
 (require 2htdp/universe)
+(require "utils.rkt")
+
 
 ;; These are the world states
 ;; A state is (before U working)
